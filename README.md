@@ -7,3 +7,5 @@ SSQiPan (猴儿棋盘) -- An AI go (Weiqi, 围棋) game watcher written in C#
 (3) Displays the win percentage, as long as the AI go program stream it out, such as Leela Zero.
 
 I started this project only a week ago, which is far from being finished. However, I have a workable executable which I will post here in few days. I will gradually, but without much delaying, complete this project in a couple of months. Eventually, I will also post the full C# code here.
+
+In the current phase, I am focusing on the functionality in stead of the beauty of the GUI.
