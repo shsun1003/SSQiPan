@@ -8,4 +8,4 @@ SSQiPan (猴儿棋盘) -- An AI go (Weiqi, 围棋) game watcher written in C#
 
 (4) More features will be provided down the road, such as save to or load from database, game analyses, problem studies, etc.
 
-The installers will install SS QiPan and some screenshots here may serve as user guide for now. Eventually, I will also post the full C# code here.
+The installers will install SS QiPan and some screenshots here may serve as user guide for now. Eventually, I will also post the full C# code here a period of bug-fixing and feature enrichment.
