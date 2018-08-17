@@ -2,7 +2,7 @@ SSQiPan (猴儿棋盘) -- An AI go (Weiqi, 围棋) game watcher written in C#
 
 (1) Provids a GUI that lets you watch AI go programs self-training on a graphical go board, not in a command window! At this moment, Leela Zero (C) AutoGTP is included and tested. 
 
-(2) Watches any GTP-supporting AI go programs, such as Leela Zero, PheonixGo, GNUGo, playing with each other, or with you!
+(2) Watches any GTP-supporting AI go programs, such as Leela Zero, PhoenixGo, GNUGo, playing with each other, or with you!
 
 (3) Displays the win percentage, as long as the AI go program stream it out, such as Leela Zero does.
 
