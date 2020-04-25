@@ -1,8 +1,8 @@
-SSQiPan (猴儿棋盘) -- An AI go (Weiqi, 围棋) game front-end application written in C#
+SSQiPan (猴儿棋盘) -- An AI go (AI Weiqi, 人工智能围棋) front-end application written in C#
 
 (1) Supports most AI Go engines that output GTP protocol, such as KataGo, Leela Zero, PheonixGo, GNUGo, etc.
 
-(2) Lets you play or watch games between AI vs AI, human vs AI or human vs human.
+(2) Lets you play or watch games in many combinations, such as AI vs AI, human vs AI or human vs human.
 
 (2) Displays winning rate curves for whole game, letting you analyze the good or bad moves.
 
