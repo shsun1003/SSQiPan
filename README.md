@@ -11,3 +11,6 @@ SSQiPan (猴儿棋盘) -- An AI go (AI Weiqi, 人工智能围棋) front-end appl
 (1) Lets you watch Leela Zero self-training.
 
 The installers will install SS QiPan. Also, some screenshots here may serve as user guide for now. Eventually, I will also post the full C# code after a period of bug-fixing and feature enrichment.
+
+
+NOTE: The screenshots may not reflect the GUI in the latest version.
