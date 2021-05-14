@@ -8,7 +8,7 @@ SSQiPan (猴儿棋盘) -- An AI GO (AI Weiqi, 人工智能围棋) desktop client
 
 (4) Displays winning rate curves for every stone, letting you observe a good or bad moves immediately (See attached Winrate Curves.png).
 
-(5) The installation is simple. Just download the zip file and uncompress its content into a folder, then you may play by double-clicking "SSQiPan.exe". Or, I would recomend, you may create a shortcut on the desktop. For the KataGO engine (which is one of the strongest AI GO freely avaiable), some lines in both default_gtp.cfg and analysis.cfg (or whatever you renamed). The most import three lines need to be set to "true" as below.
+(5) The installation is simple. Just download the zip file and uncompress its content into a folder, then you may play by double-clicking "SSQiPan.exe". Or, I would recomend, you may create a shortcut on the desktop. For the KataGO engine (which is one of the strongest AI GO freely avaiable), some lines in both default_gtp.cfg and analysis.cfg (or whatever you renamed). The most import three lines need to be set to "true" as below (See attached KataGO Config.png).
 
   logToStderr = true
   
