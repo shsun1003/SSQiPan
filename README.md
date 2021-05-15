@@ -1,4 +1,4 @@
-SSQiPan (猴儿棋盘) -- An AI GO (AI Weiqi, 人工智能围棋) desktop client application written in C#.
+SSQiPan (猴儿棋盘) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
 
 (1) Supports most AI Go engines that output GTP protocol, such as KataGo, SAI (a new Leela Zero variation), Leela Zero, PhoenixGo, GNUGo, etc (See the attached Game Samples screenshots).
 
@@ -15,6 +15,8 @@ SSQiPan (猴儿棋盘) -- An AI GO (AI Weiqi, 人工智能围棋) desktop client
   logAllRequests = true
   
   logAllResponses = true
+  
+(6) Requires 64-bit Windows 8 and later, with .NET Framework 4 and above. A good video card is recommended, but not required, depending on the AI GO engines you use. For example, KataGO, LZ and SAI all have a "CPU only" edition.
 
 
 NOTE: The screenshots may not accurately reflect the GUI in the later versions.
