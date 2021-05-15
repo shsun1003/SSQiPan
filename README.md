@@ -4,7 +4,7 @@ SSQiPan (猴儿棋盘) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop clie
 
 (2) Lets you play or watch games in many combinations, such as AI vs AI, human vs AI or human vs human.
 
-(3) Contains a powerfull game analyzer, which use KataGO analysis feature. Among the freely available AI GO engines, KataGO is one of the strongest. This analyzer can evalute the current during a game, give the winrates for each suggested move or its principal variation (VP). Either the move or VP will displayed on the board. (See attached AI Analyzer.png)
+(3) Contains a powerfull game analyzer, which employs KataGO analysis feature. Among the freely available AI GO engines, KataGO is one of the strongest. This analyzer can evalute the current during a game, give the winrates for each suggested move or its principal variation (VP). Either the move or VP will displayed on the board. (See attached AI Analyzer.png)
 
 (4) Displays winning rate curves for every stone, letting you observe a good or bad moves immediately (See attached Winrate Curves.png).
 
