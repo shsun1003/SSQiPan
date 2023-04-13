@@ -1,4 +1,9 @@
-SSQiPan (猴儿棋盘) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
+****************************************************************************************************
+NOTE: This application has been totally re-written with much better logic, also the app name
+has been changed.
+****************************************************************************************************
+
+SSShouTab (SS 手谈) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
 
 (1) Supports most AI Go engines that output GTP protocol, such as KataGo, SAI (a new Leela Zero variation), Leela Zero, PhoenixGo, GNUGo, etc (See the attached Game Samples screenshots).
 
