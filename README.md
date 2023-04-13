@@ -1,6 +1,6 @@
 ****************************************************************************************************
 NOTE: This application has been totally re-written with much better logic, also the app name
-has been changed.
+has been changed. All you need is to download and unzip file SSShouTab.23.04.13.467.zip.
 ****************************************************************************************************
 
 SSShouTab (SS 手谈) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
