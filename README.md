@@ -1,6 +1,6 @@
 ****************************************************************************************************
 NOTE: This application has been totally re-written with much better logic, also the app name
-has been changed. All you need is to download and unzip file SSShouTab.23.04.13.467.zip.
+has been changed. All you need is to download and unzip file SSShouTab.23.04.18.472.zip.
 
 All screenshots may look somewhat different from the newly rewritten application. However, they
 should functionally the same.
