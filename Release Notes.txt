@@ -1,0 +1,5 @@
+Version 23.06.30.545
+	* Added game database support (SQLite databases).
+	* Create and switch databases.
+	* Save/load games to/from the game database.
+	* import/export sgf files from/to the game database. (Coming soon in the next version)
