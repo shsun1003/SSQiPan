@@ -1,6 +1,8 @@
 ****************************************************************************************************
 NOTE: This application has been totally re-written with much better logic, also the app name
-has been changed. All you need is to download and unzip file "SSShouTan 23.05.28.512.zip".
+has been changed. All you need is to download and unzip file "SSShouTan xx.xx.xx.xxxx.zip".
+
+Please read "Release Notes.txt" for the detailed information for the latest version.
 
 All screenshots may look somewhat different from the newly rewritten application. However, they
 should functionally the same.
