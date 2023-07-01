@@ -1,5 +1,5 @@
 Version 23.07.01.546
-	* Fully implementd import file or folder to the game database.
+	* Fully implemented importing file or folder to the game database.
 	* Some bug fixes.
 
 Version 23.06.30.545
