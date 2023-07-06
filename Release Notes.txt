@@ -1,6 +1,10 @@
+Version 23.07.06.551
+	* UI changes
+	* Bug fixes
+
 Version 23.07.01.546
 	* Fully implemented importing file or folder to the game database.
-	* Some bug fixes.
+	* Bug fixes.
 
 Version 23.06.30.545
 	* Added game database support (SQLite databases).
