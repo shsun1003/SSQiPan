@@ -3,7 +3,7 @@ NOTE: This application has been totally re-written with much better logic, also 
 has been changed. All you need is to download and unzip file "SSShouTan xx.xx.xx.xxxx.zip".
 
 NOTE: Developmnet of 2nd generation is under way and beta is available: SS ShouTan 2G 23.07.19.0120.zip.
-The 2nd geberation uses the latest technology Microsoft Net 6.0 (long term support)
+The 2nd geberation uses the latest technology Microsoft Net 6.0 (long term support). When you run the application the first time, you  may be prompted to download and install Microsoft Net 6 runtime.
 
 Please read "Release Notes.txt" for the detailed information about the latest version.
 
