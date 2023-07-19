@@ -1,3 +1,6 @@
+Version 23.07.19.564
+	* UI changes, new menu items.
+	* Bug fixes
 Version 23.07.06.551
 	* UI changes
 	* Bug fixes
