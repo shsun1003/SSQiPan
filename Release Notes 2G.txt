@@ -1,3 +1,8 @@
+Version 23.08.08.0132
+	* Complete migration to Microsoft Net 6 (long term support).
+	* Bug fixes.
+	* Cosmetic improvements
+
 Version 23.07.19.0120
 	* Migrating to the latest technlogy: Microsoft Net 6 (long term support).
 	* Beta version.
