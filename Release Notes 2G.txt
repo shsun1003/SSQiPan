@@ -1,3 +1,6 @@
+Version 23.08.09.0133
+	* Initial release.
+
 Version 23.08.08.0132
 	* Complete migration to Microsoft Net 6 (long term support).
 	* Bug fixes.
