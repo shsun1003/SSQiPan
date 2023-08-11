@@ -1,3 +1,6 @@
+Version 23.08.11.0136
+	* Bug fixes
+
 Version 23.08.09.0133
 	* Initial release.
 	* Added manual (draft).
