@@ -1,3 +1,8 @@
+Version 23.08.15.0162
+	* More features added to the Database Manager
+	* Bug fixes
+	* Updated manual.
+
 Version 23.08.11.0136
 	* Bug fixes
 
