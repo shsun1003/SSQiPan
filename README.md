@@ -11,7 +11,7 @@ All screenshots may look somewhat different from the newly rewritten application
 should functionally the same.
 
 If you have any questions or you need some assistances, plesase go to the Discussions or just email
-to me
+to me. 在讨论区，大家可以用英文或中文同我交流。
 ****************************************************************************************************
 
 SSShouTab (SS 手谈) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
