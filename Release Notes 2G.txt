@@ -1,3 +1,7 @@
+Version 23.11.12.0179
+	* Implemented "draw by ko chain" (循环劫和棋)
+	* Bug fixes
+
 Version 23.08.18.0168
 	* resolved winrate curve refreshing issue
 
