@@ -1,5 +1,5 @@
 Version 24.01.29.0206
-	* Fied "draw by ko chain" (循环劫和棋) issues
+	* Fixed "draw by ko chain" (循环劫和棋) issues
 	* Bug more fixes
 
 Version 23.12.02.0189
