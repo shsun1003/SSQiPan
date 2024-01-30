@@ -1,3 +1,6 @@
+Version 24.01.30.0212
+	*bug fixes
+
 Version 24.01.29.0206
 	* Fixed "draw by ko chain" (循环劫和棋) issues
 	* Bug more fixes
