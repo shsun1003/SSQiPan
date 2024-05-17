@@ -1,5 +1,8 @@
+Version 24.05.17.0218
+	* Fixed a major bug when a human player plays with AI under certain configurations
+
 Version 24.01.30.0212
-	*bug fixes
+	* Bug fixes
 
 Version 24.01.29.0206
 	* Fixed "draw by ko chain" (循环劫和棋) issues
