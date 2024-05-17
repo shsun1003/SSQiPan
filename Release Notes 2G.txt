@@ -1,3 +1,6 @@
+Version 24.05.17.0220
+	* Minor UI look and logic changes
+
 Version 24.05.17.0218
 	* Fixed a major bug when a human player plays with AI under certain configurations
 
