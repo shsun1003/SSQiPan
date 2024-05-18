@@ -1,3 +1,6 @@
+Version 24.05.18.0237
+	* More UI bug fixes
+
 Version 24.05.17.0220
 	* Minor UI look and logic changes
 
