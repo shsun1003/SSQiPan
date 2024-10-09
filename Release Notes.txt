@@ -1,8 +1,11 @@
-Version 24.06.28.0246
-	* More bug fixes
+Version 24.10.09.0254
+	* Fixed version string
 
 Version 24.10.08.0248
 	* Officially change the application name to "SS Gobot"
+
+Version 24.06.28.0246
+	* More bug fixes
 
 Version 24.06.18.0242
 	* Fixed board freehand setup bugs
