@@ -1,20 +1,11 @@
+***** THE APPLICATION NAME HAS BEEN OFFICIALLY CHANGED TO "SS Gobot" *****
+
 ****************************************************************************************************
-NOTE: Developmnet of 2nd generation is under way and now is available: SSShouTan 2G xx.xx.xx.xxxx.zip.
-The 2nd geberation uses the latest technology Microsoft Net 6.0 (long term support). When you run the application the first time, you  may be prompted to download and install Microsoft Net 6 runtime.
-
-NOTE: This application has been totally re-written with much better logic, also the app name
-has been changed. All you need is to download and unzip file "SSShouTan xx.xx.xx.xxxx.zip".
-
-Please read "Release Notes.txt" for the detailed information about the latest version.
-
-All screenshots may look somewhat different from the newly rewritten application. However, they
-should functionally the same.
-
 If you have any questions or you need some assistances, plesase go to the Discussions or just email
 to me. 在讨论区，大家可以用英文或中文同我交流。
 ****************************************************************************************************
 
-SSShouTab (SS 手谈) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
+SS Gobot -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
 
 (1) Supports most AI Go engines that output GTP protocol, such as KataGo, SAI (a new Leela Zero variation), Leela Zero, PhoenixGo, GNUGo, etc (See the attached Game Samples screenshots).
 
@@ -35,6 +26,3 @@ SSShouTab (SS 手谈) -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop clien
   ogsChatToStderr = true
   
 (6) Requires 64-bit Windows 8 and later, with .NET Framework 4 and above. A good video card is recommended, but not required, depending on the AI GO engines you use. For example, KataGO, LZ and SAI all have a "CPU only" edition.
-
-
-NOTE: The screenshots may not accurately reflect the GUI in the later versions.
