@@ -1,3 +1,7 @@
+Version 24.11.30.0272
+	* Upgraded to Microsoft Net 8
+	* Fixed issues of AI engine stopping procedure
+
 Version 24.10.09.0254
 	* Fixed version string
 
