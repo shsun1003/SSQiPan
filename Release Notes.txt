@@ -1,3 +1,7 @@
+Version 25.04.30.0276
+	* Bug fixes
+	* GUI enhancement
+
 Version 24.11.30.0272
 	* Upgraded to Microsoft Net 8
 	* Fixed issues of AI engine stopping procedure
