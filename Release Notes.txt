@@ -1,3 +1,6 @@
+Version 26.01.18.0284
+	* Bug fixes. Resolved AI engine not exit
+
 Version 25.04.30.0276
 	* Bug fixes
 	* GUI enhancement
