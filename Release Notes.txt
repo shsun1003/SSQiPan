@@ -1,5 +1,5 @@
 Version 26.01.18.0284
-	* Bug fixes. Resolved AI engine not exit
+	* Bug fixes. Resolved an AI engine exit issue
 
 Version 25.04.30.0276
 	* Bug fixes
