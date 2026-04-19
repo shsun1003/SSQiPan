@@ -1,3 +1,9 @@
+Version 26.04.19.0312
+	* Made the database creation more user-friendly. Now the database will be created when you type a new .db file that does not exist in the file selection dialog box.
+	* Added the database validity check when a .db file is selected.
+	* New board images added.
+	* Remote peer play features are under construction. Please stay tuned.
+
 Version 26.02.15.0295
 	* Configured as single-file publish. ** This is a trial release. Please report any issues to the developer. **
 
