@@ -5,7 +5,7 @@ If you have any questions or you need some assistances, plesase go to the Discus
 to me. 在讨论区，大家可以用英文或中文同我交流。
 ****************************************************************************************************
 
-SS Gobot -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 8 and later.
+SS Gobot -- An "AI GO" (AI Weiqi, 人工智能围棋) desktop client application written in C#, running on 64-bit Windows 10 or later, with Microsoft .NET 8 runtime installed.
 
 (1) Supports most AI Go engines that output GTP protocol, such as KataGo, SAI (a new Leela Zero variation), Leela Zero, PhoenixGo, even GNUGo if you're still using it, etc (See the attached Game Samples screenshots).
 
