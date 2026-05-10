@@ -1,3 +1,9 @@
+Version 26.05.10.0385
+	* Added remote peer-to-peer play features.
+	* Added a few predefined color themes such as "Dark", "Light". "Forest", "Water", "Earth".
+	* Some major UI enhancements.
+	* User Manuals are being updated. Please stay tuned.
+
 Version 26.04.19.0312
 	* Made the database creation more user-friendly. Now the database will be created when you type a new .db file that does not exist in the file selection dialog box.
 	* Added the database validity check when a .db file is selected.
