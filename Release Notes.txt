@@ -1,3 +1,7 @@
+Version 26.05.14.0401
+	* Updated user manuals.
+	* Minor enhancements and bug fixes.
+
 Version 26.05.10.0385
 	* Added remote peer-to-peer play features.
 	* Added a few predefined color themes such as "Dark", "Light". "Forest", "Water", "Earth".
