@@ -1,3 +1,8 @@
+Version 26.05.30.0415
+	* Added localization and support for 4 languages other than English: Simplified Chinese, Traditional Chinese, Japanese and Korean. At this moment, only UI controls are localized. More works will be done with messages in the near future. (Japanese and Korean are translated using AI. Thus, they may have some inaccurate items)
+	* More UI Enhamcements.
+	* Bug fixes, especially in the database manager.
+
 Version 26.05.14.0401
 	* Updated user manuals.
 	* Minor enhancements and bug fixes.
